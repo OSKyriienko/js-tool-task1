@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  padding-left: 100px;
+  padding-top: 20px; }
+  body p#inputPosition {
+    border: 1px solid blue; }
+  body hr {
+    margin: 10px 0; }
